@@ -1,91 +1,68 @@
-<!--
-Hướng dẫn:
-- Thay các dòng TODO bằng thông tin thật của bạn.
-- Ghim đúng 6 dự án mạnh nhất ở tab Repositories → Pinned.
-- Nếu có banner, đặt vào /assets và bật phần Banner bên dưới.
--->
+<div align="center">
 
-<!-- Banner (tuỳ chọn) -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Sơn — Backend Developer" src="assets/banner-light.png">
-</picture>
--->
+# 👋 Xin chào, mình là Sơn (Trương Bá Sơn)
 
-<h1 align="center">Hi, I'm Sơn (BiUsagi) 👋</h1>
-<p align="center">
-  <b>Backend Developer</b> • <b>Problem Solver</b> • <b>Builder</b>
-</p>
+Fresher Web Developer • PHP (Laravel) • JavaScript • MySQL • Responsive UI/UX
 
-<p align="center">
-  <!-- TODO: Thay liên kết -->
-  <a href="https://www.linkedin.com/in/TEN-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:EMAIL_CUA_BAN"><img src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://X.com/TEN_TAI_KHOAN"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
-  <a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Website-1F2937?logo=google-chrome&logoColor=white" alt="Website"></a>
-</p>
+[🌐 Portfolio](https://biusagi.github.io/Portfolio/) · [📄 CV](https://github.com/BiUsagi/Portfolio/blob/main/TruongBaSon-FresherDeveloper.pdf) · [✉️ Email](mailto:sontr.dev@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 Về mình
+## 🧑‍💻 Về mình
 
-- Địa điểm: Liên Chiểu, Đà Nẵng
-- Hiện tại: <!-- TODO: Ví dụ: Thiết kế, xây dựng hệ thống backend hiệu năng cao -->
-- Quan tâm: <!-- TODO: Ví dụ: Distributed systems, event-driven, observability -->
-- Giá trị: đơn giản, đáng tin cậy, dễ mở rộng.
+- Đam mê xây dựng sản phẩm web sạch, nhanh và dễ dùng, tối ưu trải nghiệm người dùng trên mọi thiết bị.
+- Thành thạo: HTML/CSS/SCSS, JavaScript, Bootstrap. Backend với PHP (Laravel), cơ sở dữ liệu MySQL.
+- Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng (AOS, Owl Carousel, Magnific Popup, lazy-load, phân trang, loading UI).
+- Luôn sẵn sàng học hỏi công nghệ mới và làm việc nhóm với Git/GitHub.
 
-## 🧰 Kỹ năng chính
+## 🧰 Kỹ năng & Công cụ
 
-<!-- TODO: Giữ đúng stack bạn dùng thực tế -->
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img alt="AJAX" src="https://img.shields.io/badge/AJAX-2D9CDB?style=for-the-badge" />
+  <img alt="AOS" src="https://img.shields.io/badge/AOS-0E76A8?style=for-the-badge" />
+  <img alt="Owl Carousel" src="https://img.shields.io/badge/Owl%20Carousel-4B5563?style=for-the-badge" />
+  <img alt="Magnific Popup" src="https://img.shields.io/badge/Magnific%20Popup-10B981?style=for-the-badge" />
 </p>
 
-## 🌟 Điểm nổi bật
+## 💡 Dự án tiêu biểu
 
-- <!-- TODO: Ví dụ: Thiết kế microservices cho 1M+ MAU -->
-- <!-- TODO: Ví dụ: Giảm P95 latency 60% nhờ tối ưu truy vấn & caching -->
-- <!-- TODO: Ví dụ: Chuẩn hoá CI/CD, quality gates và zero-downtime deploy -->
+### FitnessOnline
 
-## 🧩 Dự án tiêu biểu
+Nền tảng tập luyện thể hình trực tuyến giúp người dùng:
 
-<!-- TODO: Thay bằng repo thật của bạn, mô tả 1 câu rõ giá trị -->
+- Đăng ký khoá tập, theo dõi tiến độ và đánh giá khoá học.
+- Huấn luyện viên tạo/quản lý khoá tập, theo dõi học viên.
+- Giao diện responsive, hiệu ứng mượt và các tối ưu hiệu năng cơ bản.
 
-- [project-one](https://github.com/BiUsagi/project-one) — <!-- mô tả ngắn -->
-- [project-two](https://github.com/BiUsagi/project-two) — <!-- mô tả ngắn -->
-- [project-three](https://github.com/BiUsagi/project-three) — <!-- mô tả ngắn -->
+• Xem chi tiết: https://biusagi.github.io/Portfolio/pages/fitnessonline.html
 
-## 📊 Thống kê
+## 📫 Liên hệ
 
-<p align="left">
-  <img height="165" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=BiUsagi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiUsagi&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
-</p>
-<p>
-  <img height="160" alt="Streak"
-       src="https://streak-stats.demolab.com?user=BiUsagi&theme=transparent&hide_border=true" />
-</p>
+- Email: sontr.dev@gmail.com
+- Portfolio: https://biusagi.github.io/Portfolio/
+- GitHub: https://github.com/BiUsagi
 
-## 🤝 Liên hệ
+## 📊 Thống kê GitHub
 
-- Email: <!-- TODO: email -->
-- LinkedIn: <!-- TODO: link -->
-- CV/Portfolio: <!-- TODO: link -->
-- Lịch hẹn: <!-- TODO: calendly (nếu có) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BiUsagi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiUsagi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=BiUsagi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
-<!-- Gợi ý:
-- Dùng tab Repositories → Pinned để ghim đúng 6 dự án mạnh nhất (có demo, có ảnh chụp, có README tốt).
-- Giữ README gọn, tập trung vào giá trị; tránh quá nhiều huy hiệu gây rối.
-- Có thể thêm /assets để chứa banner dark/light như phần đầu.
--->
+---
+
+Nếu bạn quan tâm đến hợp tác hoặc cơ hội việc làm, cứ nhắn mình qua email nhé. Cảm ơn đã ghé thăm! 🚀
