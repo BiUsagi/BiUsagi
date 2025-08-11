@@ -15,7 +15,7 @@ Web Developer (Laravel • JavaScript) — Open to work
 - Đam mê xây dựng sản phẩm web sạch, nhanh và dễ dùng, tối ưu trải nghiệm người dùng trên mọi thiết bị.
 - Thành thạo: HTML/CSS/SCSS, JavaScript, Bootstrap. Backend với PHP (Laravel), cơ sở dữ liệu MySQL.
 - Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng.
-- Làm việc nhóm với Git/GitHub; coi trọng code rõ ràng, cấu trúc hợp lý và khả năng mở rộng.
+- **Kỹ năng mềm**: Làm việc nhóm hiệu quả, tự học và thích ứng nhanh với công nghệ mới, quản lý thời gian, giải quyết vấn đề sáng tạo.
 
 ## 🧰 Skills & Tools
 
