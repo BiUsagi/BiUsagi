@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Son (Truong Ba Son)
 
-Fresher Web Developer
+Web Developer (Laravel • JavaScript) — Open to work
 
 [🌐 Portfolio](https://biusagi.github.io/Portfolio/) · [📄 CV](https://github.com/BiUsagi/Portfolio/blob/main/TruongBaSon-FresherDeveloper.pdf) · [✉️ Email](mailto:sontr.dev@gmail.com)
 
@@ -14,8 +14,15 @@ Fresher Web Developer
 
 - Đam mê xây dựng sản phẩm web sạch, nhanh và dễ dùng, tối ưu trải nghiệm người dùng trên mọi thiết bị.
 - Thành thạo: HTML/CSS/SCSS, JavaScript, Bootstrap. Backend với PHP (Laravel), cơ sở dữ liệu MySQL.
-- Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng.
-- Luôn sẵn sàng học hỏi công nghệ mới và làm việc nhóm với Git/GitHub.
+- Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng (lazy-load, phân trang, tối ưu ảnh/asset cơ bản).
+- Làm việc nhóm với Git/GitHub; coi trọng code rõ ràng, cấu trúc hợp lý và khả năng mở rộng.
+
+## 🎯 Focus & Interests
+
+- Xây dựng RESTful API với Laravel; xác thực, phân quyền cơ bản, tổ chức mã theo feature/module.
+- Thiết kế UI responsive, tối ưu Core Web Vitals cơ bản (CLS, LCP, FID) ở mức front-end.
+- Mô hình hoá dữ liệu MySQL, viết truy vấn hiệu quả, phân trang server-side.
+- Nâng cấp trải nghiệm: loading state, skeleton, micro-interactions, animation tinh gọn.
 
 ## 🧰 Skills & Tools
 ### Frontend
@@ -70,6 +77,10 @@ Nền tảng tập luyện thể hình trực tuyến giúp người dùng:
 - Huấn luyện viên tạo/quản lý khoá tập, theo dõi học viên.
 - Giao diện responsive, hiệu ứng mượt và các tối ưu hiệu năng cơ bản.
 
+Additional details:
+- Tech Stack: Laravel (PHP), JavaScript, MySQL, Bootstrap.
+- Responsibilities: UI/UX, phân trang, lazy-load, tích hợp API/AJAX, tối ưu asset cơ bản.
+
 • Xem chi tiết: https://biusagi.github.io/Portfolio/pages/fitnessonline.html
 
 ## 📫 Contact
@@ -77,6 +88,7 @@ Nền tảng tập luyện thể hình trực tuyến giúp người dùng:
 - Email: sontr.dev@gmail.com
 - Portfolio: https://biusagi.github.io/Portfolio/
 - GitHub: https://github.com/BiUsagi
+- CV: https://github.com/BiUsagi/Portfolio/blob/main/TruongBaSon-FresherDeveloper.pdf
 
 ## 📊 GitHub Stats
 
