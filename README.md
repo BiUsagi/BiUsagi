@@ -14,18 +14,14 @@ Web Developer (Laravel • JavaScript) — Open to work
 
 - Đam mê xây dựng sản phẩm web sạch, nhanh và dễ dùng, tối ưu trải nghiệm người dùng trên mọi thiết bị.
 - Thành thạo: HTML/CSS/SCSS, JavaScript, Bootstrap. Backend với PHP (Laravel), cơ sở dữ liệu MySQL.
-- Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng (lazy-load, phân trang, tối ưu ảnh/asset cơ bản).
+- Quan tâm đến hiệu ứng mượt mà và tối ưu hiệu năng.
 - Làm việc nhóm với Git/GitHub; coi trọng code rõ ràng, cấu trúc hợp lý và khả năng mở rộng.
 
-## 🎯 Focus & Interests
-
-- Xây dựng RESTful API với Laravel; xác thực, phân quyền cơ bản, tổ chức mã theo feature/module.
-- Thiết kế UI responsive, tối ưu Core Web Vitals cơ bản (CLS, LCP, FID) ở mức front-end.
-- Mô hình hoá dữ liệu MySQL, viết truy vấn hiệu quả, phân trang server-side.
-- Nâng cấp trải nghiệm: loading state, skeleton, micro-interactions, animation tinh gọn.
 
 ## 🧰 Skills & Tools
+
 ### Frontend
+
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +45,6 @@ Web Developer (Laravel • JavaScript) — Open to work
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
 ### Tools & Version Control
 
 <p>
@@ -67,21 +62,6 @@ Web Developer (Laravel • JavaScript) — Open to work
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-## 💡 Featured Projects
-
-### FitnessOnline
-
-Nền tảng tập luyện thể hình trực tuyến giúp người dùng:
-
-- Đăng ký khoá tập, theo dõi tiến độ và đánh giá khoá học.
-- Huấn luyện viên tạo/quản lý khoá tập, theo dõi học viên.
-- Giao diện responsive, hiệu ứng mượt và các tối ưu hiệu năng cơ bản.
-
-Additional details:
-- Tech Stack: Laravel (PHP), JavaScript, MySQL, Bootstrap.
-- Responsibilities: UI/UX, phân trang, lazy-load, tích hợp API/AJAX, tối ưu asset cơ bản.
-
-• Xem chi tiết: https://biusagi.github.io/Portfolio/pages/fitnessonline.html
 
 ## 📫 Contact
 
@@ -93,7 +73,9 @@ Additional details:
 ## 📊 GitHub Stats
 
 <div align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiUsagi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
   <img src="https://streak-stats.demolab.com?user=BiUsagi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
